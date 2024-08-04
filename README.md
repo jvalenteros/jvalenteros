@@ -32,7 +32,7 @@
 │ │ -rwxr-xr-x 1 dev dev 1337 Jan 1 2023 python                                 │ │
 │ │ -rwxr-xr-x 1 dev dev 1337 Jan 1 2023 lua                                    │ │
 │ │ -rwxr-xr-x 1 dev dev 1337 Jan 1 2023 python                                 │ │
-│ │ -rwxr-xr-x 1 dev dev 1337 Jan 1 2023 html                                   │ │
+│ │ -rwxr-xr-x 1 dev dev 1337 Jan 1 2023 bash                                  │ │
 │ │ -rwxr-xr-x 1 dev dev 1337 Jan 1 2023 css                                    │ │
 │ │ -rwxr-xr-x 1 dev dev 1337 Jan 1 2023 git                                    │ │
 │ └─────────────────────────────────────────────────────────────────────────────┘ │
