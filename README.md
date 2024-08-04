@@ -39,7 +39,7 @@
 │                                                                                 │
 │ jvalenteros@github:~$ fortune | cowsay                                          │
 │  _________________________________________                                      │
-│ / thanks for visiting!                    \                                     │
+│ <thanks for visiting!                     >                                     │
 │  -----------------------------------------                                      │
 │         \   ^__^                                                                │
 │          \  (oo)\_______                                                        │
