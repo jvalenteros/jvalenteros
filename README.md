@@ -8,7 +8,7 @@
 │            │ Hostname: github.com                                     │         │
 │            │ Distro: jvOS                                             │         │
 │            │ Kernel: 2.0-generic                                      │         │
-│            │ Uptime: 20 years                                         │         │
+│            │ Uptime: 21 years                                         │         │
 │            │ CPU: Ryzen 7 7700X @ 4.5 GHz                             │         │
 │            │ GPU: AMD RX 5700 XT                                      │         │
 │            │ Memory: 32GB DDR4 RAM                                    │         │
