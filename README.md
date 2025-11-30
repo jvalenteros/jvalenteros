@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Johann Valenteros
+### Hi, I'm Johann Valenteros
 
 I'm an amateur developer and an undergraduate student at University of Missouri - St. Louis.  I am passionate about open-source projects and developing applications.
 
@@ -6,7 +6,7 @@ Based in St. Louis.
 
 ---
 
-### 💻 Languages
+### 💻 Skills and Languages
 
 <p style="text-align: left;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -34,9 +34,31 @@ Based in St. Louis.
 
 ---
 
+### 💻 Frameworks and Tools
+
+<p style="text-align: left;">
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalenteros)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fawn-seven-48.vercel.app/api/top-langs/?username=jvalenteros&layout=donut-vertical&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -50,4 +72,3 @@ Based in St. Louis.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
