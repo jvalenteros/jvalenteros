@@ -36,10 +36,7 @@ Based in St. Louis.
 
 ### 📊 GitHub Stats
 
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvalenteros&show_icons=true&theme=tokyonight&rank_icon=github" alt="jvalenteros's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvalenteros&layout=compact&theme=tokyonight" alt="Top Langs">
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalenteros)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -53,3 +50,4 @@ Based in St. Louis.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
