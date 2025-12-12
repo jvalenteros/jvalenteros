@@ -73,6 +73,9 @@ Based in St. Louis.
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
   </a>
+   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" alt="Rider">
+  </a>
 </p>
 
 ---
