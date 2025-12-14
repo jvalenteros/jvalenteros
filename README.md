@@ -1,6 +1,6 @@
 ### Hi, I'm Johann Valenteros
 
-I'm an amateur developer and an undergraduate student at University of Missouri - St. Louis.  I am passionate about open-source projects and developing applications.
+I'm an amateur full stack developer and an undergraduate student at University of Missouri - St. Louis.  I am passionate about open-source projects and developing applications.
 
 Based in St. Louis.
 
