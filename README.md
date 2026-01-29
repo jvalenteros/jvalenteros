@@ -1,6 +1,8 @@
 ### Hi, I'm Johann Valenteros
 
-Im a prospective amateur full stack developer with an Associates in Applied Sciences - Cybersecurity, and currently a undergraduate student at University of Missouri - St. Louis, majoring in Information Systems and Technology in Cybersecurity. I am highly interested about open-source projects and developing applications.
+Im a prospective amateur full stack developer with an Associates in Applied Sciences - Cybersecurity, and currently a undergraduate student at University of Missouri - St. Louis, majoring in Information Systems and Technology in Cybersecurity. 
+
+I am highly interested about open-source projects and developing applications.
 
 Based in St. Louis.
 
