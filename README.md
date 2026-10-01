@@ -18,10 +18,10 @@ Insomnia · CentOS
 
 ### AI Workflow
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/claude-color.svg" alt="Claude" height="48">&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/codex-color.svg" alt="Codex" height="48">&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/openclaw-color.svg" alt="OpenClaw" height="48">&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/vllm-color.svg" alt="vLLM" height="48">
+<img src="https://unpkg.com/@lobehub/icons-static-png@1.97.1/light/claude-color.png" alt="Claude" height="48">&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@1.97.1/light/codex-color.png" alt="Codex" height="48">&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@1.97.1/light/openclaw-color.png" alt="OpenClaw" height="48">&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@1.97.1/light/vllm-color.png" alt="vLLM" height="48">
 
 Claude · Codex · OpenClaw · vLLM · AI developer tools
 
