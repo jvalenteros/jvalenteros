@@ -4,7 +4,7 @@ Aspiring full-stack developer in St. Louis. A.A.S. in Cybersecurity; B.S. candid
 
 ### Languages
 
-![JavaScript, Python, C#, Lua, Bash, HTML, CSS](https://skillicons.dev/icons?i=js,python,cs,lua,bash,html,css)
+![JavaScript, Python, C#, C++ Lua, Bash, HTML, CSS](https://skillicons.dev/icons?i=js,python,cs,cpp,lua,bash,html,css)
 
 ### Stack
 
