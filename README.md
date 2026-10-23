@@ -1,6 +1,9 @@
 # Johann Valenteros
 
-Aspiring full-stack developer in St. Louis. A.A.S. in Cybersecurity; B.S. candidate in Information Systems and Technology (Cybersecurity) at the University of Missouri–St. Louis. I like open source and building applications.
+Based in St. Louis. 
+A.A.S. in Cybersecurity; B.S. candidate in Information Systems and Technology (Cybersecurity) at the University of Missouri–St. Louis. 
+
+I like open source and building applications.
 
 ### Contact
 
